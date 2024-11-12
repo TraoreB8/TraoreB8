@@ -23,6 +23,4 @@ Outils :
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 
-📚 J'aime travailler sur des projets pratiques pour solidifier mes connaissances.
-    Si vous avez une opportunité d’alternance en développement web ou souhaitez collaborer sur un projet, n’hésitez pas à me contacter !
 ![GHstats](https://github-readme-stats.vercel.app/api?username=TraoreB8&show_icons=true)
