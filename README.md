@@ -25,4 +25,8 @@ Outils :
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=TraoreB8&show_icons=true)
 
+## 📬 Me Contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/votre-profil)](https://www.linkedin.com/in/bandiougou-traore-90aa19238/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:traorebdg@gmail.com)
 
