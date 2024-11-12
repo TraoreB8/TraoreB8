@@ -1,8 +1,8 @@
-## Hi there 👋
+👋 Salut !
 
 
 
-👋 Salut ! Je suis Bandiougou Traore, actuellement en Bachelor 3 en alternance, avec une passion pour le développement web et un intérêt marqué pour les technologies modernes.
+ Je suis Bandiougou Traore, actuellement en Bachelor 3 en alternance, avec une passion pour le développement web et un intérêt marqué pour les technologies modernes.
 
 🌱 Actuellement à la recherche d’une alternance en tant que développeur web, j’ai déjà acquis des compétences en HTML, CSS, Java, C#, JavaScript(formation), Python et je suis toujours prêt à apprendre et relever de nouveaux défis.
 
