@@ -14,4 +14,4 @@ Outils : Git, VS Code, Visual Studio
 📚 J'aime travailler sur des projets pratiques pour solidifier mes connaissances et contribuer à des projets open-source dès que possible.
 
 💌 Si vous avez une opportunité d’alternance en développement web ou souhaitez collaborer sur un projet, n’hésitez pas à me contacter !
-![GHstats] (https://github-readme-stats.verce1.app/api?username=TraoreB8&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=TraoreB8&show_icons=true)
