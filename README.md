@@ -25,5 +25,4 @@ Outils :
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=TraoreB8&show_icons=true)
 
-#gh-dark-mode-only
 
